@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Xcode
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.ipa
+*.xcarchive
+Pods/
+
+# KMP
+kotlin-js-store/
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Secrets
+*.env
+local.properties
